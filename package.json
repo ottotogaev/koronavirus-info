@@ -13,7 +13,7 @@
   "author": "Abbos Qosim",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "covid19-api": "^1.2.1",
     "epsilonjs": "^2.0.2",
     "firebase": "^7.16.1",
