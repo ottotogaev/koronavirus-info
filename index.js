@@ -34,7 +34,7 @@ menu.manual("RU", "ru", {
 });
 
 menu.setCommand("lang");
-const bot = new Telegraf("1240252826:AAFLyWWWUP4IU7so4i-kezehklEoqtQP34Y");
+const bot = new Telegraf("BOT_TOKEN");
 
 bot.use(session());
 
